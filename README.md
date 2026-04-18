@@ -49,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2469-convert-the-temperature](https://github.com/patelmanan112/leetcode-question/tree/main/2469-convert-the-temperature/) | Easy |
 <!---LeetCode Topics End-->

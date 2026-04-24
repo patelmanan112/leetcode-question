@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/patelmanan112/leetcode-question/tree/main/0049-group-anagrams/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/patelmanan112/leetcode-question/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

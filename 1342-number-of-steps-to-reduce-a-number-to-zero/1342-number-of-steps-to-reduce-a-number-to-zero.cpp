@@ -1,18 +1,18 @@
 class Solution {
 public:
     int numberOfSteps(int num) {
-int count =0;
-    while(num!=0){
-        if(num%2==0){
-            count++;
-            num = num/2;
+        int count =0;
+        while(num!=0){
+            if(num%2==0){
+                num = num/2;
+                count++;
+            }
+            else{
+                num = num -1;
+                count++;
+            }
         }
-        else{
-            num = num -1;
-            count = count + 1;
-        }
-    }
 
-    return count;
+        return count;
     }
 };

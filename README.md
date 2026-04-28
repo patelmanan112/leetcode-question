@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/patelmanan112/leetcode-question/tree/main/0066-plus-one/) | Easy |
+| [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/patelmanan112/leetcode-question/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/patelmanan112/leetcode-question/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/patelmanan112/leetcode-question/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -80,5 +81,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/patelmanan112/leetcode-question/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->

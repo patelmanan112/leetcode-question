@@ -1,23 +1,23 @@
 class Solution {
 public:
     string truncateSentence(string s, int k) {
-        vector<string> vp;
-        string sample;
+        vector<string> v;
+        string day;
         string res;
         for(int i=0; i<s.size() ; i++){
             if(s[i] == ' '){
-                vp.push_back(sample);
-                sample = "";
+                v.push_back(day);
+                day = "";
             }
-            
-            sample +=s[i];
+            day += s[i];
         }
-    vp.push_back(sample);
-      for(int i=0; i<k ; i++){
-       
-        res += vp[i];
-      }
+        v.push_back(day);
 
-      return res;
+        for(int i=0; i<k ; i++){
+            res += v[i];
+        }
+
+
+        return res;
     }
 };

@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/patelmanan112/leetcode-question/tree/main/0771-jewels-and-stones/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/patelmanan112/leetcode-question/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/patelmanan112/leetcode-question/tree/main/1816-truncate-sentence/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/patelmanan112/leetcode-question/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/patelmanan112/leetcode-question/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Sorting
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/patelmanan112/leetcode-question/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/patelmanan112/leetcode-question/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

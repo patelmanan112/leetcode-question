@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/patelmanan112/leetcode-question/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/patelmanan112/leetcode-question/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/patelmanan112/leetcode-question/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2315-count-asterisks](https://github.com/patelmanan112/leetcode-question/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

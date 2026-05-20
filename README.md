@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/patelmanan112/leetcode-question/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/patelmanan112/leetcode-question/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0088-merge-sorted-array/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/patelmanan112/leetcode-question/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/patelmanan112/leetcode-question/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0088-merge-sorted-array/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/patelmanan112/leetcode-question/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Trie
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/patelmanan112/leetcode-question/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/patelmanan112/leetcode-question/tree/main/0342-power-of-four/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/patelmanan112/leetcode-question/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/patelmanan112/leetcode-question/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/patelmanan112/leetcode-question/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |

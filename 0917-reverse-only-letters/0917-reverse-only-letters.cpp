@@ -1,28 +1,24 @@
 class Solution {
 public:
-
-    bool isLetter(char ch) {
-        return (ch >= 'a' && ch <= 'z') ||
-               (ch >= 'A' && ch <= 'Z');
+    bool letter(char ch){
+        return ch >= 'a' &&ch <= 'z' || ch >= 'A' && ch<= 'Z';
     }
-
     string reverseOnlyLetters(string s) {
-
-        int left = 0;
-        int right = s.size() - 1;
-
-        while(left < right) {
-
-            if(!isLetter(s[left])) {
-                left++;
+        int i =0;
+        int j = s.size();
+        while( i<j){
+            if(!letter(s[i])){
+                i++;
+            continue;
             }
-            else if(!isLetter(s[right])) {
-                right--;
+            if(!letter(s[j])){
+                j--;
+              continue;
             }
-            else {
-                swap(s[left], s[right]);
-                left++;
-                right--;
+            else{
+                swap(s[i] , s[j]);
+                i++;
+                j--;
             }
         }
 

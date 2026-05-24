@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/patelmanan112/leetcode-question/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/patelmanan112/leetcode-question/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/patelmanan112/leetcode-question/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/patelmanan112/leetcode-question/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/patelmanan112/leetcode-question/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/patelmanan112/leetcode-question/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/patelmanan112/leetcode-question/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/patelmanan112/leetcode-question/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/patelmanan112/leetcode-question/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/patelmanan112/leetcode-question/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/patelmanan112/leetcode-question/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/patelmanan112/leetcode-question/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |

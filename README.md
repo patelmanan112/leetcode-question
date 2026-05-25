@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/patelmanan112/leetcode-question/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/patelmanan112/leetcode-question/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/patelmanan112/leetcode-question/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/patelmanan112/leetcode-question/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/patelmanan112/leetcode-question/tree/main/1323-maximum-69-number/) | Easy |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0367-valid-perfect-square](https://github.com/patelmanan112/leetcode-question/tree/main/0367-valid-perfect-square/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

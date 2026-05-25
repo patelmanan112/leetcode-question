@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/patelmanan112/leetcode-question/tree/main/0389-find-the-difference/) | Easy |
 | [0520-detect-capital](https://github.com/patelmanan112/leetcode-question/tree/main/0520-detect-capital/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/patelmanan112/leetcode-question/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0771-jewels-and-stones](https://github.com/patelmanan112/leetcode-question/tree/main/0771-jewels-and-stones/) | Easy |
 | [0824-goat-latin](https://github.com/patelmanan112/leetcode-question/tree/main/0824-goat-latin/) | Easy |
 | [0917-reverse-only-letters](https://github.com/patelmanan112/leetcode-question/tree/main/0917-reverse-only-letters/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/patelmanan112/leetcode-question/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/patelmanan112/leetcode-question/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/patelmanan112/leetcode-question/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Number Theory

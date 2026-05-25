@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/patelmanan112/leetcode-question/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/patelmanan112/leetcode-question/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/patelmanan112/leetcode-question/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -168,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/patelmanan112/leetcode-question/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->

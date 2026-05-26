@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/patelmanan112/leetcode-question/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/patelmanan112/leetcode-question/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2469-convert-the-temperature](https://github.com/patelmanan112/leetcode-question/tree/main/2469-convert-the-temperature/) | Easy |
+| [2525-categorize-box-according-to-criteria](https://github.com/patelmanan112/leetcode-question/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

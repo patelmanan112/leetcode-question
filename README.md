@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/patelmanan112/leetcode-question/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/patelmanan112/leetcode-question/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/patelmanan112/leetcode-question/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/patelmanan112/leetcode-question/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/patelmanan112/leetcode-question/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/patelmanan112/leetcode-question/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/patelmanan112/leetcode-question/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/patelmanan112/leetcode-question/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/patelmanan112/leetcode-question/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/patelmanan112/leetcode-question/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/patelmanan112/leetcode-question/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -190,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/patelmanan112/leetcode-question/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/patelmanan112/leetcode-question/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->

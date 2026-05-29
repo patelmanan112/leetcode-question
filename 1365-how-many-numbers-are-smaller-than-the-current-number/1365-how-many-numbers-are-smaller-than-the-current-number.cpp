@@ -1,25 +1,25 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
-        
-        int freq[101] = {0};
-        for (int num : nums) {
-            freq[num]++;
-        }
-        for (int i = 1; i <= 100; i++) {
-            freq[i] += freq[i - 1];
-        }
+     vector<int> freq(101 , 0);
+     for(int ch : nums){
+        freq[ch]++;
+     }   
 
-        vector<int> ans; 
-        for (int num : nums) {
+     for(int i =1 ; i<=100; i++){
+        freq[i] += freq[i-1];
 
-            if (num == 0) {
-                ans.push_back(0);
-            } else {
-                ans.push_back(freq[num - 1]);
-            }
+     }
+
+     vector<int> ans;
+     for(int ch : nums){
+        if(ch == 0){
+            ans.push_back(0);
         }
-
+        else{
+            ans.push_back(freq[ch-1]);
+        }
+     }
         return ans;
     }
 };

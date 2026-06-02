@@ -3,7 +3,6 @@ public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         vector<int> answer;
         int check =0;
-      
         for(int i=0; i<nums1.size() ; i++){
             int temp = nums1[i];
               int nextGreat = -1;

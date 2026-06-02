@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/patelmanan112/leetcode-question/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/patelmanan112/leetcode-question/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/patelmanan112/leetcode-question/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/patelmanan112/leetcode-question/tree/main/3794-reverse-string-prefix/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2315-count-asterisks](https://github.com/patelmanan112/leetcode-question/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/patelmanan112/leetcode-question/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

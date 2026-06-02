@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/patelmanan112/leetcode-question/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2315-count-asterisks](https://github.com/patelmanan112/leetcode-question/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2443-sum-of-number-and-its-reverse](https://github.com/patelmanan112/leetcode-question/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2469-convert-the-temperature](https://github.com/patelmanan112/leetcode-question/tree/main/2469-convert-the-temperature/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/patelmanan112/leetcode-question/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patelmanan112/leetcode-question/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/patelmanan112/leetcode-question/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Bit Manipulation
@@ -227,4 +229,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patelmanan112/leetcode-question/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
 <!---LeetCode Topics End-->

@@ -2,10 +2,9 @@ class Solution {
 public:
     string addSpaces(string s, vector<int>& spaces) {
       string ans;
-      int k = spaces.size();
       int j =0;
       for(int i=0; i<s.size() ; i++){
-        if( j <k && i == spaces[j]){
+        if( j <spaces.size() && i == spaces[j]){
             ans += " ";
             j++;
         }

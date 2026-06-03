@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-decode-xored-array](https://github.com/patelmanan112/leetcode-question/tree/main/1720-decode-xored-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/patelmanan112/leetcode-question/tree/main/1816-truncate-sentence/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/patelmanan112/leetcode-question/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/patelmanan112/leetcode-question/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patelmanan112/leetcode-question/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/patelmanan112/leetcode-question/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/patelmanan112/leetcode-question/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/patelmanan112/leetcode-question/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/patelmanan112/leetcode-question/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/patelmanan112/leetcode-question/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/patelmanan112/leetcode-question/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/patelmanan112/leetcode-question/tree/main/3925-concatenate-array-with-reverse/) | Easy |

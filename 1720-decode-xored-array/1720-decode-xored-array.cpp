@@ -1,16 +1,15 @@
 class Solution {
 public:
     vector<int> decode(vector<int>& encoded, int first) {
-        vector<int> ans;
-        int value = encoded[0]^first;
-        ans.push_back(first);
-        ans.push_back(value);
-        for(int i=1; i<encoded.size() ; i++){
-          int value2 =  value^ encoded[i];
-          ans.push_back(value2);
-          value = value2;
-        }
+     vector<int> arr;
+     int value = encoded[0]^first;
+     arr.push_back(first);
+     arr.push_back(value);
 
-        return ans;
+     for(int i=1; i<encoded.size() ; i++){
+        value = encoded[i]^value;
+        arr.push_back(value);
+     }
+    return arr;
     }
 };

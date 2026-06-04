@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/patelmanan112/leetcode-question/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/patelmanan112/leetcode-question/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2126-destroying-asteroids](https://github.com/patelmanan112/leetcode-question/tree/main/2126-destroying-asteroids/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/patelmanan112/leetcode-question/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patelmanan112/leetcode-question/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/patelmanan112/leetcode-question/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/patelmanan112/leetcode-question/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2126-destroying-asteroids](https://github.com/patelmanan112/leetcode-question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/patelmanan112/leetcode-question/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1323-maximum-69-number](https://github.com/patelmanan112/leetcode-question/tree/main/1323-maximum-69-number/) | Easy |
+| [2126-destroying-asteroids](https://github.com/patelmanan112/leetcode-question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/patelmanan112/leetcode-question/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |

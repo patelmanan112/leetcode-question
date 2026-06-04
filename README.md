@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/patelmanan112/leetcode-question/tree/main/0771-jewels-and-stones/) | Easy |
 | [0824-goat-latin](https://github.com/patelmanan112/leetcode-question/tree/main/0824-goat-latin/) | Easy |
 | [0917-reverse-only-letters](https://github.com/patelmanan112/leetcode-question/tree/main/0917-reverse-only-letters/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/patelmanan112/leetcode-question/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/patelmanan112/leetcode-question/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/patelmanan112/leetcode-question/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/patelmanan112/leetcode-question/tree/main/1768-merge-strings-alternately/) | Easy |

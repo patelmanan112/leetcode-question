@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/patelmanan112/leetcode-question/tree/main/0389-find-the-difference/) | Easy |
+| [0394-decode-string](https://github.com/patelmanan112/leetcode-question/tree/main/0394-decode-string/) | Medium |
 | [0520-detect-capital](https://github.com/patelmanan112/leetcode-question/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/patelmanan112/leetcode-question/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/patelmanan112/leetcode-question/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/patelmanan112/leetcode-question/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/patelmanan112/leetcode-question/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/patelmanan112/leetcode-question/tree/main/0901-online-stock-span/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/patelmanan112/leetcode-question/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/patelmanan112/leetcode-question/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/patelmanan112/leetcode-question/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/patelmanan112/leetcode-question/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/patelmanan112/leetcode-question/tree/main/0394-decode-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

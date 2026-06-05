@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/patelmanan112/leetcode-question/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/patelmanan112/leetcode-question/tree/main/2126-destroying-asteroids/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/patelmanan112/leetcode-question/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/patelmanan112/leetcode-question/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patelmanan112/leetcode-question/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/patelmanan112/leetcode-question/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/patelmanan112/leetcode-question/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/patelmanan112/leetcode-question/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

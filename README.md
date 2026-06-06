@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/patelmanan112/leetcode-question/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/patelmanan112/leetcode-question/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patelmanan112/leetcode-question/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3895-count-digit-appearances](https://github.com/patelmanan112/leetcode-question/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/patelmanan112/leetcode-question/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/patelmanan112/leetcode-question/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patelmanan112/leetcode-question/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/patelmanan112/leetcode-question/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3895-count-digit-appearances](https://github.com/patelmanan112/leetcode-question/tree/main/3895-count-digit-appearances/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

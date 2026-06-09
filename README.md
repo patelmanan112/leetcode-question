@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2315-count-asterisks](https://github.com/patelmanan112/leetcode-question/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/patelmanan112/leetcode-question/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-count-integers-with-even-digit-sum](https://github.com/patelmanan112/leetcode-question/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/patelmanan112/leetcode-question/tree/main/2974-minimum-number-game/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/patelmanan112/leetcode-question/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |

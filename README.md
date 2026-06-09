@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/patelmanan112/leetcode-question/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/patelmanan112/leetcode-question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelmanan112/leetcode-question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/patelmanan112/leetcode-question/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/patelmanan112/leetcode-question/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2974-minimum-number-game](https://github.com/patelmanan112/leetcode-question/tree/main/2974-minimum-number-game/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/patelmanan112/leetcode-question/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1720-decode-xored-array](https://github.com/patelmanan112/leetcode-question/tree/main/1720-decode-xored-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/patelmanan112/leetcode-question/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

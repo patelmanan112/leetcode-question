@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/patelmanan112/leetcode-question/tree/main/0771-jewels-and-stones/) | Easy |
 | [0824-goat-latin](https://github.com/patelmanan112/leetcode-question/tree/main/0824-goat-latin/) | Easy |
 | [0917-reverse-only-letters](https://github.com/patelmanan112/leetcode-question/tree/main/0917-reverse-only-letters/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/patelmanan112/leetcode-question/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/patelmanan112/leetcode-question/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/patelmanan112/leetcode-question/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/patelmanan112/leetcode-question/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/patelmanan112/leetcode-question/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/patelmanan112/leetcode-question/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/patelmanan112/leetcode-question/tree/main/0901-online-stock-span/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/patelmanan112/leetcode-question/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/patelmanan112/leetcode-question/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/patelmanan112/leetcode-question/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/patelmanan112/leetcode-question/tree/main/2000-reverse-prefix-of-word/) | Easy |

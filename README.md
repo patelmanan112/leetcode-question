@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/patelmanan112/leetcode-question/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/patelmanan112/leetcode-question/tree/main/3668-restore-finishing-order/) | Easy |
 | [3866-first-unique-even-element](https://github.com/patelmanan112/leetcode-question/tree/main/3866-first-unique-even-element/) | Easy |
+| [3945-digit-frequency-score](https://github.com/patelmanan112/leetcode-question/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/patelmanan112/leetcode-question/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/patelmanan112/leetcode-question/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3895-count-digit-appearances](https://github.com/patelmanan112/leetcode-question/tree/main/3895-count-digit-appearances/) | Medium |
+| [3945-digit-frequency-score](https://github.com/patelmanan112/leetcode-question/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

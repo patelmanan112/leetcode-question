@@ -2,15 +2,16 @@ class Solution {
 public:
     int digitFrequencyScore(int n) {
         unordered_map<int , int> mp;
-        int i=0;
-        int sum =0;
-        while(n!=0){
-            int upd = n%10;
+        int temp = n;
+        while(temp!=0){
+            int upd = temp%10;
             mp[upd]++;
-            n = n/10;
+            temp = temp/10;
         }
+
+        int sum =0;
         for(auto& it : mp){
-            sum += it.first * it.second;
+             sum = sum + it.first * it.second;
         }
 
         return sum;

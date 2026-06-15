@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/patelmanan112/leetcode-question/tree/main/0389-find-the-difference/) | Easy |
 | [0394-decode-string](https://github.com/patelmanan112/leetcode-question/tree/main/0394-decode-string/) | Medium |
+| [0434-number-of-segments-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0520-detect-capital](https://github.com/patelmanan112/leetcode-question/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/patelmanan112/leetcode-question/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/patelmanan112/leetcode-question/tree/main/0657-robot-return-to-origin/) | Easy |

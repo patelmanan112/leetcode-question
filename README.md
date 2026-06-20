@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/patelmanan112/leetcode-question/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/patelmanan112/leetcode-question/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2325-decode-the-message](https://github.com/patelmanan112/leetcode-question/tree/main/2325-decode-the-message/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/patelmanan112/leetcode-question/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/patelmanan112/leetcode-question/tree/main/3668-restore-finishing-order/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2129-capitalize-the-title](https://github.com/patelmanan112/leetcode-question/tree/main/2129-capitalize-the-title/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/patelmanan112/leetcode-question/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2315-count-asterisks](https://github.com/patelmanan112/leetcode-question/tree/main/2315-count-asterisks/) | Easy |
+| [2325-decode-the-message](https://github.com/patelmanan112/leetcode-question/tree/main/2325-decode-the-message/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/patelmanan112/leetcode-question/tree/main/2942-find-words-containing-character/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |

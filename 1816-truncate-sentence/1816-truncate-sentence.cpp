@@ -11,13 +11,12 @@ public:
             }
             day += s[i];
         }
+
         v.push_back(day);
 
-        for(int i=0; i<k ; i++){
+        for(int i=0; i<k; i++){
             res += v[i];
         }
-
-
         return res;
     }
 };

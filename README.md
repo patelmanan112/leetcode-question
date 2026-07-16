@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/patelmanan112/leetcode-question/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/patelmanan112/leetcode-question/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/patelmanan112/leetcode-question/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/patelmanan112/leetcode-question/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0088-merge-sorted-array/) | Easy |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/patelmanan112/leetcode-question/tree/main/0011-container-with-most-water/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/patelmanan112/leetcode-question/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/patelmanan112/leetcode-question/tree/main/1323-maximum-69-number/) | Easy |
 | [2126-destroying-asteroids](https://github.com/patelmanan112/leetcode-question/tree/main/2126-destroying-asteroids/) | Medium |

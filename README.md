@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/patelmanan112/leetcode-question/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/patelmanan112/leetcode-question/tree/main/0228-summary-ranges/) | Easy |
 | [0496-next-greater-element-i](https://github.com/patelmanan112/leetcode-question/tree/main/0496-next-greater-element-i/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/patelmanan112/leetcode-question/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/patelmanan112/leetcode-question/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/patelmanan112/leetcode-question/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/patelmanan112/leetcode-question/tree/main/0496-next-greater-element-i/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/patelmanan112/leetcode-question/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/patelmanan112/leetcode-question/tree/main/0771-jewels-and-stones/) | Easy |
 | [1002-find-common-characters](https://github.com/patelmanan112/leetcode-question/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/patelmanan112/leetcode-question/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/patelmanan112/leetcode-question/tree/main/0389-find-the-difference/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/patelmanan112/leetcode-question/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1051-height-checker](https://github.com/patelmanan112/leetcode-question/tree/main/1051-height-checker/) | Easy |
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/patelmanan112/leetcode-question/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/patelmanan112/leetcode-question/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/patelmanan112/leetcode-question/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
@@ -331,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patelmanan112/leetcode-question/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/patelmanan112/leetcode-question/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/patelmanan112/leetcode-question/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/patelmanan112/leetcode-question/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/patelmanan112/leetcode-question/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0896-monotonic-array](https://github.com/patelmanan112/leetcode-question/tree/main/0896-monotonic-array/) | Easy |
 | [1002-find-common-characters](https://github.com/patelmanan112/leetcode-question/tree/main/1002-find-common-characters/) | Easy |
 | [1051-height-checker](https://github.com/patelmanan112/leetcode-question/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1207-unique-number-of-occurrences/) | Easy |

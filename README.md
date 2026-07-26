@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/patelmanan112/leetcode-question/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/patelmanan112/leetcode-question/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/patelmanan112/leetcode-question/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/patelmanan112/leetcode-question/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/patelmanan112/leetcode-question/tree/main/2942-find-words-containing-character/) | Easy |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/patelmanan112/leetcode-question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelmanan112/leetcode-question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/patelmanan112/leetcode-question/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/patelmanan112/leetcode-question/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2974-minimum-number-game](https://github.com/patelmanan112/leetcode-question/tree/main/2974-minimum-number-game/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/patelmanan112/leetcode-question/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/patelmanan112/leetcode-question/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/patelmanan112/leetcode-question/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/patelmanan112/leetcode-question/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |
+| [0292-nim-game](https://github.com/patelmanan112/leetcode-question/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/patelmanan112/leetcode-question/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/patelmanan112/leetcode-question/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/patelmanan112/leetcode-question/tree/main/0367-valid-perfect-square/) | Easy |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/patelmanan112/leetcode-question/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/patelmanan112/leetcode-question/tree/main/1025-divisor-game/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/patelmanan112/leetcode-question/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/patelmanan112/leetcode-question/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/patelmanan112/leetcode-question/tree/main/1025-divisor-game/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/patelmanan112/leetcode-question/tree/main/3828-final-element-after-subarray-deletions/) | Medium |

@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/patelmanan112/leetcode-question/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/patelmanan112/leetcode-question/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1025-divisor-game](https://github.com/patelmanan112/leetcode-question/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/patelmanan112/leetcode-question/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/patelmanan112/leetcode-question/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/patelmanan112/leetcode-question/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/patelmanan112/leetcode-question/tree/main/1025-divisor-game/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/patelmanan112/leetcode-question/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/patelmanan112/leetcode-question/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
@@ -366,12 +368,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/patelmanan112/leetcode-question/tree/main/1025-divisor-game/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/patelmanan112/leetcode-question/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/patelmanan112/leetcode-question/tree/main/0338-counting-bits/) | Easy |
+| [1025-divisor-game](https://github.com/patelmanan112/leetcode-question/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/patelmanan112/leetcode-question/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/patelmanan112/leetcode-question/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Memoization

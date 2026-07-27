@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/patelmanan112/leetcode-question/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/patelmanan112/leetcode-question/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/patelmanan112/leetcode-question/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/patelmanan112/leetcode-question/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1816-truncate-sentence](https://github.com/patelmanan112/leetcode-question/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/patelmanan112/leetcode-question/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/patelmanan112/leetcode-question/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/patelmanan112/leetcode-question/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/patelmanan112/leetcode-question/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/patelmanan112/leetcode-question/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/patelmanan112/leetcode-question/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/patelmanan112/leetcode-question/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/patelmanan112/leetcode-question/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/patelmanan112/leetcode-question/tree/main/2119-a-number-after-a-double-reversal/) | Easy |

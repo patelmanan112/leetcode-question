@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patelmanan112/leetcode-question/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/patelmanan112/leetcode-question/tree/main/3668-restore-finishing-order/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/patelmanan112/leetcode-question/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/patelmanan112/leetcode-question/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/patelmanan112/leetcode-question/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3866-first-unique-even-element](https://github.com/patelmanan112/leetcode-question/tree/main/3866-first-unique-even-element/) | Easy |
 | [3895-count-digit-appearances](https://github.com/patelmanan112/leetcode-question/tree/main/3895-count-digit-appearances/) | Medium |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/patelmanan112/leetcode-question/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patelmanan112/leetcode-question/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/patelmanan112/leetcode-question/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/patelmanan112/leetcode-question/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/patelmanan112/leetcode-question/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/patelmanan112/leetcode-question/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3895-count-digit-appearances](https://github.com/patelmanan112/leetcode-question/tree/main/3895-count-digit-appearances/) | Medium |

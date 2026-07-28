@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/patelmanan112/leetcode-question/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/patelmanan112/leetcode-question/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/patelmanan112/leetcode-question/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/patelmanan112/leetcode-question/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/patelmanan112/leetcode-question/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/patelmanan112/leetcode-question/tree/main/2469-convert-the-temperature/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/patelmanan112/leetcode-question/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/patelmanan112/leetcode-question/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/patelmanan112/leetcode-question/tree/main/2652-sum-multiples/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/patelmanan112/leetcode-question/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |

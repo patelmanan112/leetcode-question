@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-decode-xored-array](https://github.com/patelmanan112/leetcode-question/tree/main/1720-decode-xored-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/patelmanan112/leetcode-question/tree/main/1816-truncate-sentence/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/patelmanan112/leetcode-question/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/patelmanan112/leetcode-question/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/patelmanan112/leetcode-question/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/patelmanan112/leetcode-question/tree/main/0561-array-partition/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/patelmanan112/leetcode-question/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/patelmanan112/leetcode-question/tree/main/1323-maximum-69-number/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/patelmanan112/leetcode-question/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2126-destroying-asteroids](https://github.com/patelmanan112/leetcode-question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelmanan112/leetcode-question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/patelmanan112/leetcode-question/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |

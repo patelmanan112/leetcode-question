@@ -439,4 +439,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/patelmanan112/leetcode-question/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/patelmanan112/leetcode-question/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->

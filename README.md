@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-decode-the-message](https://github.com/patelmanan112/leetcode-question/tree/main/2325-decode-the-message/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/patelmanan112/leetcode-question/tree/main/2942-find-words-containing-character/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/patelmanan112/leetcode-question/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3163-string-compression-iii](https://github.com/patelmanan112/leetcode-question/tree/main/3163-string-compression-iii/) | Medium |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/patelmanan112/leetcode-question/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/patelmanan112/leetcode-question/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/patelmanan112/leetcode-question/tree/main/2652-sum-multiples/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/patelmanan112/leetcode-question/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/patelmanan112/leetcode-question/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/patelmanan112/leetcode-question/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/patelmanan112/leetcode-question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelmanan112/leetcode-question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/patelmanan112/leetcode-question/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/patelmanan112/leetcode-question/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |

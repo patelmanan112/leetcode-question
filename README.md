@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-decode-the-message](https://github.com/patelmanan112/leetcode-question/tree/main/2325-decode-the-message/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/patelmanan112/leetcode-question/tree/main/2942-find-words-containing-character/) | Easy |
+| [3163-string-compression-iii](https://github.com/patelmanan112/leetcode-question/tree/main/3163-string-compression-iii/) | Medium |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/patelmanan112/leetcode-question/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3498-reverse-degree-of-a-string/) | Easy |

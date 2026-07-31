@@ -468,4 +468,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/patelmanan112/leetcode-question/tree/main/0183-customers-who-never-order/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/patelmanan112/leetcode-question/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/patelmanan112/leetcode-question/tree/main/0577-employee-bonus/) | Easy |
+| [1965-employees-with-missing-information](https://github.com/patelmanan112/leetcode-question/tree/main/1965-employees-with-missing-information/) | Easy |
 <!---LeetCode Topics End-->

@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0177-nth-highest-salary](https://github.com/patelmanan112/leetcode-question/tree/main/0177-nth-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/patelmanan112/leetcode-question/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/patelmanan112/leetcode-question/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/patelmanan112/leetcode-question/tree/main/0184-department-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/patelmanan112/leetcode-question/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/patelmanan112/leetcode-question/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/patelmanan112/leetcode-question/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |

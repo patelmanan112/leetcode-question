@@ -484,5 +484,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0511-game-play-analysis-i](https://github.com/patelmanan112/leetcode-question/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/patelmanan112/leetcode-question/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/patelmanan112/leetcode-question/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/patelmanan112/leetcode-question/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/patelmanan112/leetcode-question/tree/main/1965-employees-with-missing-information/) | Easy |
 <!---LeetCode Topics End-->

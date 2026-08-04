@@ -468,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patelmanan112/leetcode-question/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/patelmanan112/leetcode-question/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/patelmanan112/leetcode-question/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0237-delete-node-in-a-linked-list/) | Medium |

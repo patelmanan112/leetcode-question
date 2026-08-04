@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/patelmanan112/leetcode-question/tree/main/0595-big-countries/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/patelmanan112/leetcode-question/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1148-article-views-i](https://github.com/patelmanan112/leetcode-question/tree/main/1148-article-views-i/) | Easy |
+| [1683-invalid-tweets](https://github.com/patelmanan112/leetcode-question/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/patelmanan112/leetcode-question/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/patelmanan112/leetcode-question/tree/main/1965-employees-with-missing-information/) | Easy |
 <!---LeetCode Topics End-->

@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0165-compare-version-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/patelmanan112/leetcode-question/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/patelmanan112/leetcode-question/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/patelmanan112/leetcode-question/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/patelmanan112/leetcode-question/tree/main/0443-string-compression/) | Medium |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/patelmanan112/leetcode-question/tree/main/0071-simplify-path/) | Medium |
 | [0143-reorder-list](https://github.com/patelmanan112/leetcode-question/tree/main/0143-reorder-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/patelmanan112/leetcode-question/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/patelmanan112/leetcode-question/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/patelmanan112/leetcode-question/tree/main/0901-online-stock-span/) | Medium |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/patelmanan112/leetcode-question/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/patelmanan112/leetcode-question/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/patelmanan112/leetcode-question/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/patelmanan112/leetcode-question/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/patelmanan112/leetcode-question/tree/main/0394-decode-string/) | Medium |
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/patelmanan112/leetcode-question/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/patelmanan112/leetcode-question/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0707-design-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/patelmanan112/leetcode-question/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |

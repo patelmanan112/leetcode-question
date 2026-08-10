@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-airplane-seat-assignment-probability](https://github.com/patelmanan112/leetcode-question/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/patelmanan112/leetcode-question/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/patelmanan112/leetcode-question/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/patelmanan112/leetcode-question/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/patelmanan112/leetcode-question/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/patelmanan112/leetcode-question/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0707-design-linked-list/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/patelmanan112/leetcode-question/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/patelmanan112/leetcode-question/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Database
 | Problem Name | Difficulty |

@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/patelmanan112/leetcode-question/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/patelmanan112/leetcode-question/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/patelmanan112/leetcode-question/tree/main/0228-summary-ranges/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/patelmanan112/leetcode-question/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/patelmanan112/leetcode-question/tree/main/0496-next-greater-element-i/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/patelmanan112/leetcode-question/tree/main/0125-valid-palindrome/) | Easy |
 | [0165-compare-version-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0165-compare-version-numbers/) | Medium |
 | [0242-valid-anagram](https://github.com/patelmanan112/leetcode-question/tree/main/0242-valid-anagram/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/patelmanan112/leetcode-question/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0344-reverse-string](https://github.com/patelmanan112/leetcode-question/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/patelmanan112/leetcode-question/tree/main/0231-power-of-two/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/patelmanan112/leetcode-question/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0338-counting-bits](https://github.com/patelmanan112/leetcode-question/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/patelmanan112/leetcode-question/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/patelmanan112/leetcode-question/tree/main/0371-sum-of-two-integers/) | Medium |

@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0896-monotonic-array](https://github.com/patelmanan112/leetcode-question/tree/main/0896-monotonic-array/) | Easy |
 | [1002-find-common-characters](https://github.com/patelmanan112/leetcode-question/tree/main/1002-find-common-characters/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1051-height-checker](https://github.com/patelmanan112/leetcode-question/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/patelmanan112/leetcode-question/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/patelmanan112/leetcode-question/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/patelmanan112/leetcode-question/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/patelmanan112/leetcode-question/tree/main/0901-online-stock-span/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/patelmanan112/leetcode-question/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/patelmanan112/leetcode-question/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/patelmanan112/leetcode-question/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/patelmanan112/leetcode-question/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/patelmanan112/leetcode-question/tree/main/0901-online-stock-span/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -498,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0707-design-linked-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/patelmanan112/leetcode-question/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/patelmanan112/leetcode-question/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |

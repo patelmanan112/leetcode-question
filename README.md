@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/patelmanan112/leetcode-question/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/patelmanan112/leetcode-question/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/patelmanan112/leetcode-question/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/patelmanan112/leetcode-question/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0088-merge-sorted-array/) | Easy |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/patelmanan112/leetcode-question/tree/main/0053-maximum-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/patelmanan112/leetcode-question/tree/main/0338-counting-bits/) | Easy |
 | [1025-divisor-game](https://github.com/patelmanan112/leetcode-question/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/patelmanan112/leetcode-question/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -523,4 +525,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/patelmanan112/leetcode-question/tree/main/0141-linked-list-cycle/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/patelmanan112/leetcode-question/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->

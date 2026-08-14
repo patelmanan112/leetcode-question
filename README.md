@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/patelmanan112/leetcode-question/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/patelmanan112/leetcode-question/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/patelmanan112/leetcode-question/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/patelmanan112/leetcode-question/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patelmanan112/leetcode-question/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/patelmanan112/leetcode-question/tree/main/3668-restore-finishing-order/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/patelmanan112/leetcode-question/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3162-find-the-number-of-good-pairs-i](https://github.com/patelmanan112/leetcode-question/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/patelmanan112/leetcode-question/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/patelmanan112/leetcode-question/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/patelmanan112/leetcode-question/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/patelmanan112/leetcode-question/tree/main/3668-restore-finishing-order/) | Easy |
 | [3866-first-unique-even-element](https://github.com/patelmanan112/leetcode-question/tree/main/3866-first-unique-even-element/) | Easy |
 | [3945-digit-frequency-score](https://github.com/patelmanan112/leetcode-question/tree/main/3945-digit-frequency-score/) | Easy |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/patelmanan112/leetcode-question/tree/main/2974-minimum-number-game/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/patelmanan112/leetcode-question/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/patelmanan112/leetcode-question/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/patelmanan112/leetcode-question/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/patelmanan112/leetcode-question/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Number Theory
@@ -480,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/patelmanan112/leetcode-question/tree/main/2974-minimum-number-game/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/patelmanan112/leetcode-question/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -513,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2181-merge-nodes-in-between-zeros](https://github.com/patelmanan112/leetcode-question/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/patelmanan112/leetcode-question/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/patelmanan112/leetcode-question/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -540,4 +545,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/patelmanan112/leetcode-question/tree/main/0053-maximum-subarray/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/patelmanan112/leetcode-question/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/patelmanan112/leetcode-question/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 <!---LeetCode Topics End-->

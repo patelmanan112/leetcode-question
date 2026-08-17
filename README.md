@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/patelmanan112/leetcode-question/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0896-monotonic-array](https://github.com/patelmanan112/leetcode-question/tree/main/0896-monotonic-array/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/patelmanan112/leetcode-question/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1002-find-common-characters](https://github.com/patelmanan112/leetcode-question/tree/main/1002-find-common-characters/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1051-height-checker](https://github.com/patelmanan112/leetcode-question/tree/main/1051-height-checker/) | Easy |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/patelmanan112/leetcode-question/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/patelmanan112/leetcode-question/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/patelmanan112/leetcode-question/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1051-height-checker](https://github.com/patelmanan112/leetcode-question/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/patelmanan112/leetcode-question/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/patelmanan112/leetcode-question/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/patelmanan112/leetcode-question/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/patelmanan112/leetcode-question/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -371,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/patelmanan112/leetcode-question/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/patelmanan112/leetcode-question/tree/main/0561-array-partition/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/patelmanan112/leetcode-question/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/patelmanan112/leetcode-question/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/patelmanan112/leetcode-question/tree/main/1323-maximum-69-number/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/patelmanan112/leetcode-question/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |

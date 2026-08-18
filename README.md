@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patelmanan112/leetcode-question/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/patelmanan112/leetcode-question/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/patelmanan112/leetcode-question/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/patelmanan112/leetcode-question/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/patelmanan112/leetcode-question/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/patelmanan112/leetcode-question/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3895-count-digit-appearances](https://github.com/patelmanan112/leetcode-question/tree/main/3895-count-digit-appearances/) | Medium |

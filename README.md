@@ -526,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/patelmanan112/leetcode-question/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/patelmanan112/leetcode-question/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/patelmanan112/leetcode-question/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/patelmanan112/leetcode-question/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/patelmanan112/leetcode-question/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |

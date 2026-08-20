@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/patelmanan112/leetcode-question/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/patelmanan112/leetcode-question/tree/main/2126-destroying-asteroids/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelmanan112/leetcode-question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/patelmanan112/leetcode-question/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/patelmanan112/leetcode-question/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/patelmanan112/leetcode-question/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/patelmanan112/leetcode-question/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/patelmanan112/leetcode-question/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2325-decode-the-message](https://github.com/patelmanan112/leetcode-question/tree/main/2325-decode-the-message/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/patelmanan112/leetcode-question/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/patelmanan112/leetcode-question/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |

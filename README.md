@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/patelmanan112/leetcode-question/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/patelmanan112/leetcode-question/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/patelmanan112/leetcode-question/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/patelmanan112/leetcode-question/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/patelmanan112/leetcode-question/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0088-merge-sorted-array/) | Easy |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/patelmanan112/leetcode-question/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/patelmanan112/leetcode-question/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/patelmanan112/leetcode-question/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/patelmanan112/leetcode-question/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/patelmanan112/leetcode-question/tree/main/0054-spiral-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/patelmanan112/leetcode-question/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/patelmanan112/leetcode-question/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |

@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/patelmanan112/leetcode-question/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/patelmanan112/leetcode-question/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/patelmanan112/leetcode-question/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/patelmanan112/leetcode-question/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/patelmanan112/leetcode-question/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/patelmanan112/leetcode-question/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/patelmanan112/leetcode-question/tree/main/0242-valid-anagram/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/patelmanan112/leetcode-question/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/patelmanan112/leetcode-question/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/patelmanan112/leetcode-question/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/patelmanan112/leetcode-question/tree/main/0143-reorder-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/0165-compare-version-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/patelmanan112/leetcode-question/tree/main/0189-rotate-array/) | Medium |
@@ -522,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/patelmanan112/leetcode-question/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/patelmanan112/leetcode-question/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/patelmanan112/leetcode-question/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/patelmanan112/leetcode-question/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/patelmanan112/leetcode-question/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -561,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/patelmanan112/leetcode-question/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/patelmanan112/leetcode-question/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

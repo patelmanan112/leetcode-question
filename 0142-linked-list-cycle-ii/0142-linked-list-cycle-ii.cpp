@@ -21,14 +21,17 @@ public:
                 break;
             }
         }
+        if(check){
         slow = head;
-        while( check && slow){
+        while(  slow){
             if(slow == fast){
                 return slow;
             }
             slow = slow->next;
             fast = fast->next;
         }
+        }
+      
        
         return nullptr;
     }

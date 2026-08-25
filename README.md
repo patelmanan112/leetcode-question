@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/patelmanan112/leetcode-question/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/patelmanan112/leetcode-question/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/patelmanan112/leetcode-question/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/patelmanan112/leetcode-question/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/patelmanan112/leetcode-question/tree/main/0054-spiral-matrix/) | Medium |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/patelmanan112/leetcode-question/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/patelmanan112/leetcode-question/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/patelmanan112/leetcode-question/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/patelmanan112/leetcode-question/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/patelmanan112/leetcode-question/tree/main/0189-rotate-array/) | Medium |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/patelmanan112/leetcode-question/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/patelmanan112/leetcode-question/tree/main/0054-spiral-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/patelmanan112/leetcode-question/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/patelmanan112/leetcode-question/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |

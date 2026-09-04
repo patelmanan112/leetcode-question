@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/patelmanan112/leetcode-question/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/patelmanan112/leetcode-question/tree/main/0228-summary-ranges/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/patelmanan112/leetcode-question/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0414-third-maximum-number](https://github.com/patelmanan112/leetcode-question/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/patelmanan112/leetcode-question/tree/main/0496-next-greater-element-i/) | Easy |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/patelmanan112/leetcode-question/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/patelmanan112/leetcode-question/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/patelmanan112/leetcode-question/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/patelmanan112/leetcode-question/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/patelmanan112/leetcode-question/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/patelmanan112/leetcode-question/tree/main/0594-longest-harmonious-subsequence/) | Easy |

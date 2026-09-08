@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3895-count-digit-appearances](https://github.com/patelmanan112/leetcode-question/tree/main/3895-count-digit-appearances/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/patelmanan112/leetcode-question/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/patelmanan112/leetcode-question/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3978-unique-middle-element](https://github.com/patelmanan112/leetcode-question/tree/main/3978-unique-middle-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/patelmanan112/leetcode-question/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3866-first-unique-even-element](https://github.com/patelmanan112/leetcode-question/tree/main/3866-first-unique-even-element/) | Easy |
+| [3978-unique-middle-element](https://github.com/patelmanan112/leetcode-question/tree/main/3978-unique-middle-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

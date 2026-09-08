@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2315-count-asterisks](https://github.com/patelmanan112/leetcode-question/tree/main/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/patelmanan112/leetcode-question/tree/main/2325-decode-the-message/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/patelmanan112/leetcode-question/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/patelmanan112/leetcode-question/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/patelmanan112/leetcode-question/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3163-string-compression-iii](https://github.com/patelmanan112/leetcode-question/tree/main/3163-string-compression-iii/) | Medium |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/patelmanan112/leetcode-question/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/patelmanan112/leetcode-question/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/patelmanan112/leetcode-question/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/patelmanan112/leetcode-question/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/patelmanan112/leetcode-question/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/patelmanan112/leetcode-question/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/patelmanan112/leetcode-question/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/patelmanan112/leetcode-question/tree/main/2974-minimum-number-game/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/patelmanan112/leetcode-question/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |

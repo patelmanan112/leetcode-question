@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/patelmanan112/leetcode-question/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/patelmanan112/leetcode-question/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/patelmanan112/leetcode-question/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/patelmanan112/leetcode-question/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-merge-in-between-linked-lists](https://github.com/patelmanan112/leetcode-question/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/patelmanan112/leetcode-question/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/patelmanan112/leetcode-question/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/patelmanan112/leetcode-question/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |

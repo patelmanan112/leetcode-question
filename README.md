@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patelmanan112/leetcode-question/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/patelmanan112/leetcode-question/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/patelmanan112/leetcode-question/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/patelmanan112/leetcode-question/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/patelmanan112/leetcode-question/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/patelmanan112/leetcode-question/tree/main/0058-length-of-last-word/) | Easy |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/patelmanan112/leetcode-question/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/patelmanan112/leetcode-question/tree/main/0071-simplify-path/) | Medium |
 | [0143-reorder-list](https://github.com/patelmanan112/leetcode-question/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -605,4 +607,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/patelmanan112/leetcode-question/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/patelmanan112/leetcode-question/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
